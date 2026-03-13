@@ -1,0 +1,11 @@
+prices=[7,1,5,3,6,4]
+r,l=1,prices[0]
+maxpr=0
+while r<len(prices):
+    if l>prices[r]:
+        l=prices[r]
+    else:
+        maxpr=max(maxpr,prices[r]-l)
+    r+=1
+print(maxpr)
+# Output: 5

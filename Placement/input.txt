@@ -1,0 +1,12 @@
+Email: user01@gmail.com
+Backup email: support.team@gmail.com
+Phone: 9876543210
+Invalid phone: 123456
+Date: 12-08-2025
+Another date: 01-01-2024
+Website: https://www.example.com
+Server IP: 192.168.1.1
+Price is 450 and tax is 20
+Warning: error error occurred
+Password1: Abc@1234
+Password2: weakpass
