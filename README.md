@@ -104,7 +104,7 @@ $ python3 array.py
 **Ram Prasad S M**  
 3rd Year B.E. Computer Science  
 📧 ramprasad.s.m28@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ramprasad-s-m-5849662a3) · [Portfolio](https://ramprasad28-hue.github.io/portfolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/ramprasad-s-m-5849662a3) · [Portfolio](https://github.com/ramprasad28-hue/Protfolio.git)
 
 ---
 
